@@ -1,0 +1,21 @@
+{
+  "currency": "USD",
+  "entries": [
+    {
+      "date": "2026-01-05",
+      "description": "Capital received from limited partners",
+      "postings": [
+        {"account": "Cash", "amount": "100000.00"},
+        {"account": "Limited partners' capital", "amount": "-100000.00"}
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "description": "Portfolio investment purchased at cost",
+      "postings": [
+        {"account": "Portfolio investments at cost", "amount": "25000.50"},
+        {"account": "Cash", "amount": "-25000.50"}
+      ]
+    }
+  ]
+}
